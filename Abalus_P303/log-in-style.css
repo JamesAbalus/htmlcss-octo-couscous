@@ -1,0 +1,46 @@
+body {
+    font: normal 20px Arial, Helvetica, sans-serif;
+    background-color: grey;
+    color: black;  
+    background-image: url(fbg.jpg);      
+    text-align:center;
+    margin:150px 450px;
+}
+
+.my-form {          
+    margin:30px 20px;
+    text-align: center;
+    font-size:25px;
+}
+
+    .my-form input[type="text"] {   
+        box-shadow: 10px 10px;
+        padding: 10px;
+        width: 50%;
+        border-radius:100px 100px;
+        border-color:black;
+    }
+
+    .my-form input[type="submit"] {
+        margin-left: 350px;
+        margin-bottom: 10px;
+        background-color: deepskyblue;
+        color: black;
+        padding: 10px 15px;
+        border-radius: 10px 10px;
+        border: 1px solid black;
+        font-weight: 500;
+    }
+.title {
+    margin-top:30px;
+    margin-bottom:10px;
+    text-align: center;
+    font-size:40px;
+    text-decoration:solid;
+       
+}
+.box-1{
+    border:3px solid black;
+    background-color:cadetblue;
+    border-radius:50px 50px;
+}

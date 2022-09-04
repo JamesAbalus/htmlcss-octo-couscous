@@ -1,0 +1,48 @@
+body {
+    font: normal 20px Arial, Helvetica, sans-serif;
+    background-color: grey;
+    color: black;  
+    padding: 50px;    
+    background-image:url(fbg.jpg);
+}
+
+.my-form{
+   margin-left: 400px;
+   margin-right: 400px;
+   text-align:justify;
+}
+
+.my-form input[type="text"] {
+        border-color:black;
+        border-radius:50px 50px;
+        display:block;
+        padding: 10px;      
+        width:100%;        
+}
+
+.my-form input[type="submit"]{
+        border-radius:10px 10px;
+        background-color: deepskyblue;
+        color:black;
+        padding:10px 15px;
+        border:none;
+}
+
+.title{
+    text-align:center;
+    text-decoration:underline;
+}
+
+.navbar ul{
+    padding:0;
+    list-style:none;
+}
+.navbar li{
+    display:inline; 
+}
+.navbar a{
+    text-decoration:underline;
+    font-size:18px;
+    padding-right:20px;
+    color:black;
+}
